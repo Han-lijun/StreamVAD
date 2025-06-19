@@ -1,7 +1,7 @@
 # StreamVAD
 This is the official repository of our paper:
 **"StreamVAD: A Streaming Framework with Progressive Context Integration for Multi-Temporal Scale Video Anomaly Detection"** 
-![overview](img\overview.png)
+![overview](img/overview.png)
 
 ## Highlight
 - An lightweight streaming video anomaly detection framework is proposed.
